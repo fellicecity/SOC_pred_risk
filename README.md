@@ -116,14 +116,6 @@ Update paths in `config.R` before running.
 
 ---
 
-## Citation
-
-If you use this code, please cite:
-
-> [Your Name] ([Year]). SOC Carbon Risk Framework — Hawke's Bay Planted Forests. Interpine Group / [Your Institution]. GitHub: https://github.com/YourUsername/SOC-Carbon-Risk-HawkesBay
-
----
-
 ## References
 
 - Beare, M.H. et al. (2014). Changes in the abundance and activity of soil organisms following organic matter inputs. *New Zealand Journal of Agricultural Research*.
