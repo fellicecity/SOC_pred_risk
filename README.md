@@ -116,6 +116,12 @@ Update paths in `config.R` before running.
 
 ---
 
+## Citation
+
+Catelo, F. (2026). Flood and Landslide Susceptibility Mapping with SOC Exposure Assessment, Hawke's Bay, New Zealand. New Zealand Journal of Forestry Science. [DOI when available]
+
+---
+
 ## References
 
 - Beare, M.H. et al. (2014). Changes in the abundance and activity of soil organisms following organic matter inputs. *New Zealand Journal of Agricultural Research*.
